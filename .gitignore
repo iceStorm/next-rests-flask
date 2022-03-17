@@ -1,0 +1,22 @@
+# IDE
+.idea/
+.vs/
+# .vscode/
+.DS_Store
+
+# npm
+node_modules/
+
+# virtual environment
+venv/
+# .env
+.flaskenv
+
+# private folder
+#src/instance/
+
+# caching files
+__pycache__/
+**/__pycache__/
+
+# environment variables

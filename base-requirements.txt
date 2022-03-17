@@ -1,0 +1,17 @@
+flask # core web framework
+flask_sqlalchemy # db orm
+flask_migrate # db orm mirgation
+flask_limiter # rate limiting
+flask_mail # sending smtp email
+flask_principal # restricting access to routes
+flask_login # login manager
+flask-wtf # form upload, csrf, recaptcha...
+flask-dance # oauth
+flask_cors # cors implementing
+
+bcrypt # encrypting
+flask_bcrypt
+gunicorn # wsgi
+
+python-dotenv # auto loading .env files
+pyclean # clean all __pycache__
